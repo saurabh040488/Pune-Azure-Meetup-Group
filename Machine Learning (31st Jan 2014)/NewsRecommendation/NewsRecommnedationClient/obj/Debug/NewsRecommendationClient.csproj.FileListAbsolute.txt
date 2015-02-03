@@ -1,0 +1,12 @@
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\bin\NewsRecommendation.dll.config
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\bin\NewsRecommendation.dll
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\bin\NewsRecommendation.pdb
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\obj\Debug\NewsRecommendation.dll
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\obj\Debug\NewsRecommendation.pdb
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\obj\Debug\NewsRecommendationClient.csprojResolveAssemblyReference.cache
+C:\Users\saurabha\Desktop\Azure meetup\Pune-Azure-Meetup-Group\NewsRecommnedationClient\bin\NewsRecommendation.dll.config
+C:\Users\saurabha\Desktop\Azure meetup\Pune-Azure-Meetup-Group\NewsRecommnedationClient\bin\NewsRecommendation.dll
+C:\Users\saurabha\Desktop\Azure meetup\Pune-Azure-Meetup-Group\NewsRecommnedationClient\bin\NewsRecommendation.pdb
+C:\Users\saurabha\Desktop\Azure meetup\Pune-Azure-Meetup-Group\NewsRecommnedationClient\obj\Debug\NewsRecommendationClient.csprojResolveAssemblyReference.cache
+C:\Users\saurabha\Desktop\Azure meetup\Pune-Azure-Meetup-Group\NewsRecommnedationClient\obj\Debug\NewsRecommendation.dll
+C:\Users\saurabha\Desktop\Azure meetup\Pune-Azure-Meetup-Group\NewsRecommnedationClient\obj\Debug\NewsRecommendation.pdb

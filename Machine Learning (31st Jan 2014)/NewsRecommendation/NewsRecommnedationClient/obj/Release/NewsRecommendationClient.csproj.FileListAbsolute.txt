@@ -1,0 +1,5 @@
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\bin\NewsRecommendation.dll.config
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\bin\NewsRecommendation.dll
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\bin\NewsRecommendation.pdb
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\obj\Release\NewsRecommendation.dll
+C:\Users\saurabha\Documents\Visual Studio 2013\Projects\NewsRecommendation\NewsRecommnedationClient\obj\Release\NewsRecommendation.pdb
